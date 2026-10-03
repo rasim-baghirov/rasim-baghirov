@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 
 I am a Computer Engineering graduate and a Master's student focused on backend development with Python. I work with both **Django and Odoo**, developing web applications, REST APIs, and ERP solutions.<br><br>
 
