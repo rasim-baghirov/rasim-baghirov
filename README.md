@@ -10,7 +10,7 @@ I am interested in building practical backend solutions and continuously improvi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/rasim-baghirov)
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram\&logoColor=white)](https://t.me/klashraik)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:rasimba05@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:rasim.baghirov1@gmail.com)
 
 # 💻 Tech Stack:
 
